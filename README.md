@@ -1,1 +1,2 @@
-스프링 핵심 원리 강의 🌱
+# hello-core
+🌱 Learn core of spring
